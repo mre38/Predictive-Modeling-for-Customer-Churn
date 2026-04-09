@@ -43,6 +43,7 @@ On the final 946-row Test Dataset, the model achieved the following benchmarks:
 <img width="744" height="485" alt="Screenshot 221148" src="https://github.com/user-attachments/assets/99245d5a-08de-490c-8044-354e08cfb08b" />
 
 ---
+<a href="https://github.com/mre38/Predictive-Modeling-for-Customer-Churn/blob/main/REGRESSION%20MODEL.xlsx">View Project<a/>
 
 ## Strategic Recommendations
 * **Immediate Intervention:** Implement a "Rapid Response" program for any customer who files a complaint. Since complaints are the #1 driver, immediate resolution is the most cost-effective churn reduction strategy.
